@@ -1,0 +1,28 @@
+name: todo_loop
+description: "Everyday tasks reminder"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.4
+
+dependencies:
+  confetti: ^0.8.0
+  dynamic_color: ^1.7.0
+  flutter:
+    sdk: flutter
+  google_fonts: ^6.2.1
+  loading_animation_widget: ^1.3.0
+  path: ^1.9.0
+  shared_preferences: ^2.3.2
+  sqflite: ^2.4.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^4.0.0
+  flutter_launcher_icons: ^0.14.1
+
+flutter:
+  uses-material-design: true
