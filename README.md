@@ -1,16 +1,9 @@
-# todo_loop
+<p align="center">
+  <img src="assets/icon/icon.png" alt="logo" height="100" style="border-radius: 50%;"/>
+</p>
 
-A new Flutter project.
+# Todo Loop
+Do not forget your daily tasks anymore!
+List out all of your tasks and the relevant days, then get a daily checklist. See which tasks you regularly forget thanks to the completion rate in the list.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![screenshot_main](assets/screenshots/both.jpg)
